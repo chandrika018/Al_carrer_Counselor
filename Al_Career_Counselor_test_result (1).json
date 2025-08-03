@@ -1,0 +1,11 @@
+{
+	"choices": [
+		{
+			"index": 0,
+			"message": {
+				"content": "There are various government job options available, including federal, state, and local government positions. Some examples of government jobs include secretary, correctional officer, data entry clerk, computer network support specialist, and more. You can search for government job openings on websites such as GovernmentJobs.com, Indeed.com, CalCareers.ca.gov, NYC.gov, and OrangeCountyFL.net. Additionally, you can find job openings and career opportunities on state government websites, such as the State of Illinois and the State of Arkansas. It's also a good idea to check the official website of the city or county you're interested in working for, as they often have a careers or employment section where you can find job openings and apply online.",
+				"role": "assistant"
+			}
+		}
+	]
+}
