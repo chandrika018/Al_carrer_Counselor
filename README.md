@@ -92,11 +92,6 @@ Real-time mentorship program
 
 
 
-🔗 RECORDING : Al_Career_Counselor
-
-
-"C:\Users\inspi\OneDrive\Pictures\Screen Recording 2025-08-03 152419.mp4"
-
 
 
 
