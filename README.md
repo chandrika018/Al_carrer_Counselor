@@ -1,4 +1,4 @@
-<img width="1919" height="917" alt="result jpg" src="https://github.com/user-attachments/assets/1c67ea06-25a9-455b-88fd-46ff2e5837fc" />🎯 AI_Career_Counselor for Rural Youth
+🎯 AI_Career_Counselor for Rural Youth
 📌 Project Overview
 The AI Career Counselor for Rural Youth is an intelligent virtual assistant designed to provide personalized career guidance to students in rural areas. It bridges the gap caused by limited access to career counseling, helping youth explore job opportunities, online courses, government schemes, and vocational training.
 
@@ -49,6 +49,20 @@ Add voice-based regional language support
 Integrate with local government databases
 
 Real-time mentorship program
+
+🔗 Set Granitee model
+![Model](https://github.com/user-attachments/assets/abcdbac1-eb7e-4309-8184-b33d8c5abe94)
+
+🔗 Quick start question
+  <img width="1913" height="912" alt="Question jpg" src="https://github.com/user-attachments/assets/e827e5bd-9c13-4b55-869d-d87a624610d8" />
+
+🔗 Agent insruction
+  <img width="1918" height="909" alt="Screenshot 2025-08-03 140911" src="https://github.com/user-attachments/assets/b18f1a06-c721-4d23-af95-2babda901fbe" />
+
+🔗
+
+
+
 
 
 
