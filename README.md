@@ -1,4 +1,6 @@
 🎯 AI_Career_Counselor for Rural Youth
+
+
 📌 Project Overview
 The AI Career Counselor for Rural Youth is an intelligent virtual assistant designed to provide personalized career guidance to students in rural areas. It bridges the gap caused by limited access to career counseling, helping youth explore job opportunities, online courses, government schemes, and vocational training.
 
