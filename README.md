@@ -59,26 +59,32 @@ Real-time mentorship program
 🔗 Quick start question
 
   <img width="1913" height="912" alt="Question jpg" src="https://github.com/user-attachments/assets/e827e5bd-9c13-4b55-869d-d87a624610d8" />
+  
 
 🔗 Agent insruction
 
   <img width="1918" height="909" alt="Screenshot 2025-08-03 140911" src="https://github.com/user-attachments/assets/b18f1a06-c721-4d23-af95-2babda901fbe" />
+  
 
 🔗Agent preview
 
 <img width="1915" height="905" alt="Screenshot 2025-08-03 142046" src="https://github.com/user-attachments/assets/0fea82d2-addc-4b79-96b3-7b0f5b285934" />
 
+
 🔗 Deployment
 
 <img width="1909" height="917" alt="Screenshot 2025-08-03 145633" src="https://github.com/user-attachments/assets/f0e25539-f75a-4ea2-925f-b5c6ebbc0729" />
+
 
 🔗 API Refrence
 
 <img width="1919" height="904" alt="Screenshot 2025-08-03 145655" src="https://github.com/user-attachments/assets/b4fea2a0-f632-4ae4-acc6-122c68db0a9f" />
 
+
 🔗 Preview
 
 <img width="1919" height="911" alt="Screenshot 2025-08-03 145943" src="https://github.com/user-attachments/assets/d281e8b6-8cf0-4d2e-a96d-6663cb53ea6a" />
+
 
 🔗 Result
 
@@ -88,7 +94,11 @@ Real-time mentorship program
 
 🔗 RECORDING : Al_Career_Counselor
 
-<img width="1919" height="917" alt="Screenshot 2025-08-03 145926" src="https://github.com/user-attachments/assets/ed75523d-a892-4f93-849a-70fc0b6cca6d" />
+
+"C:\Users\inspi\OneDrive\Pictures\Screen Recording 2025-08-03 152419.mp4"
+
+
+
 
 
 
